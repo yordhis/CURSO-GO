@@ -67,7 +67,7 @@ func change(value *string) {
 //*******************************
 
 // *** retornar funcion ***
-// Go permite indicar en elultimo parametro el tipo de valor
+// Go permite indicar en el ultimo parametro el tipo de valor
 // siempre que sean todos int, string etc.
 func suma(num1, num2 int) int {
 	return num1 + num2
